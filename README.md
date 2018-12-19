@@ -1,6 +1,2 @@
 # hello-world
-test
-test
-testst
-tyets'
-yeyss
+amit kumar goyal
